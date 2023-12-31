@@ -1,0 +1,1 @@
+This is a basic static website projects for practicing HTML and CSS.
